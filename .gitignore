@@ -1,0 +1,7 @@
+
+venv/
+
+
+Stanford Dogs/Dataset/
+Stanford Dogs/dogs_split/
+Stanford Dogs/dog_breed_classifier_final.h5
